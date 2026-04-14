@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-tustin | what happens after an arrest in Tustin | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-tustin | how do bail bonds work in Tustin | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-tustin | how much is bail in Orange County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-tustin | how much is bail in Orange County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-tustin | how to get someone out of jail in Tustin | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-tustin | domestic violence bail bonds Tustin | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-tustin | DUI bail bonds Tustin | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-tustin | felony bail bonds Tustin | Felony | ⬜ |
+| 2026-04-14 | Tue | 2026-04-14-tustin-bail-bonds | tustin bail bonds | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-tustin | drug possession bail Tustin | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-tustin | can you bail someone out at night in Tustin | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-tustin | how long does it take to bail someone out of Tustin PD | Timeline | ⬜ |
