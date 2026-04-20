@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-tustin | how much does a bail bondsman charge in Tustin | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-tustin | bail bond payment plan Tustin | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-tustin | jail booking process at Tustin PD | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-tustin | how to find someone in jail Tustin | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-tustin | what to expect at arraignment Central Justice Center | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-tustin | bail hearing process in Orange County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-tustin | warrant bail bonds Tustin | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-tustin | what happens if you miss court date Tustin | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-tustin | assault and battery bail bonds Tustin | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-tustin | theft and burglary bail bonds Tustin | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-tustin | how to choose a bail bondsman in Tustin | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-tustin | what does a bail bond cosigner do Tustin | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-tustin | bail conditions and restrictions Orange County | Conditions | ⬜ |
+| 2026-04-21 | Tue | weapon-charges-bail-tustin | weapon charges bail bonds Tustin | Weapon Charges | ⬜ |
+| 2026-04-22 | Wed | immigration-hold-bail-tustin | ICE hold bail questions Tustin | Immigration | ⬜ |
+| 2026-04-23 | Thu | probation-violation-bail-tustin | probation violation bail Tustin | Probation | ⬜ |
+| 2026-04-24 | Fri | bench-warrant-tustin | bench warrant bail bonds Tustin | Bench Warrant | ⬜ |
+| 2026-04-25 | Sat | restraining-order-bail-tustin | restraining order and bail Tustin | Restraining Order | ⬜ |
+| 2026-04-26 | Sun | bail-bond-cost-tustin | how much does a bail bondsman charge in Tustin | Costs | ⬜ |
+| 2026-04-27 | Mon | bail-bond-payment-plan-tustin | bail bond payment plan Tustin | Payment Plans | ⬜ |
+| 2026-04-28 | Tue | jail-booking-process-tustin | jail booking process in Tustin | Jail Process | ⬜ |
+| 2026-04-29 | Wed | inmate-search-tustin | how to find someone in jail Tustin | Inmate Search | ⬜ |
+| 2026-04-30 | Thu | what-to-expect-arraignment-tustin | what to expect at arraignment in Orange | Court Process | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
