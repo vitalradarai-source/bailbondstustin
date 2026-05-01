@@ -42,7 +42,7 @@
 | 2026-04-27 | Mon | bail-bond-payment-plan-tustin | bail bond payment plan Tustin | Payment Plans | ⬜ |
 | 2026-04-28 | Tue | jail-booking-process-tustin | jail booking process in Tustin | Jail Process | ⬜ |
 | 2026-04-29 | Wed | inmate-search-tustin | how to find someone in jail Tustin | Inmate Search | ⬜ |
-| 2026-04-30 | Thu | what-to-expect-arraignment-tustin | what to expect at arraignment in Orange | Court Process | ⬜ |
+| 2026-04-30 | Thu | what-to-expect-arraignment-tustin | what to expect at arraignment in Orange | Court Process | ✅ published |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
